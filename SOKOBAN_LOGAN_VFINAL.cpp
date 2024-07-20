@@ -2,6 +2,8 @@
 #include <windows.h>
 #include <conio.h>
 
+// English commentary by: Logan Santana Fernandes.
+
 using namespace std;
 
 #define BLACK        0
